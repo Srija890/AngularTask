@@ -1,0 +1,28 @@
+#logo{
+width:250px;
+/* float: left; */
+padding-right: 10px;
+
+}
+.mat-toolbar{
+    background-color: salmon;
+}
+#search >*:not(:first-child){
+/* float: right; */
+padding-left:370px;
+
+}
+ 
+ #search{
+    padding: 60px;
+} 
+
+#button{
+background-color:black;
+
+}
+
+#playlist{
+    background-color:gray;
+    /* background-size: 300px; */
+}
